@@ -1,0 +1,6 @@
+[package]
+name = "raspi-os-rust"
+version = "0.1.0"
+authors = ["gregscott94"]
+
+[dependencies]
